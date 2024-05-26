@@ -184,8 +184,13 @@ body {
     margin-bottom: 10px;
         
  }
+/*---redimensionar a imagem do whatsapp*/
+ .whatsapp_icon {
+    width: 60px; /* Defina a largura desejada */
+    height: 60px; /* Defina a altura desejada */
+}
+ 
     
-
     footer {
         text-align: center;
         padding: 80px;
